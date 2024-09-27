@@ -3,4 +3,4 @@
 # creator Jadeyn Lindsey
 
 
-head -n 9 ../alkanes/cubane.pdb | tail -n 3
+head -n 9 "$1" | tail -n 3
